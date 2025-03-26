@@ -31,5 +31,17 @@ namespace Guia1_24_marzo_01_DiegoAlbizuris
             Form3 samy = new Form3();
             samy.ShowDialog();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Form4 samy = new Form4();
+            samy.ShowDialog();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Form5 samy = new Form5();
+            samy.ShowDialog();
+        }
     }
 }
